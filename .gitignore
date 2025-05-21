@@ -3,3 +3,4 @@ lesson*
 *.csv
 *.xls
 *.xlsx
+.ipynb_checkpoints
